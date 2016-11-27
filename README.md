@@ -26,9 +26,14 @@ This was a lab assignment in Computer Networks lab at my University to learn how
 
 To compile the program, do the following.
 
-1) gcc ServerNew.c ServerFunc.c -o Server
+1) gcc ServerNew.c ServerFunc.c -o Server in a machine.
 
-2) gcc ClientNew.c ClientFunc.c -o Client
+2) gcc ClientNew.c ClientFunc.c -o Client in another machine.
 
+To run the program, do the following.
+
+1) Run "./Server" on the command line in one machine.
+
+2) Run "./Client hostname" on the command line in other machine. "hostname" can be ip of the server machine.
 
 
