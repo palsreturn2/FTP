@@ -22,7 +22,7 @@ The program has been tested on various kind of files like .FLV, .PDF, .TXT, .MP4
 
 This was a lab assignment in Computer Networks lab at my University to learn how to use sockets to transfer information from one machine to another. 
 
-# Installation
+# Installation and running
 
 To compile the program, do the following.
 
